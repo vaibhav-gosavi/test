@@ -1,0 +1,5 @@
+1,Beach Vacation,1000
+2,Mountain Retreat,800
+3,City Exploration,1200
+4,Trip to canada,18000
+5,Trip to mumbai,5000
